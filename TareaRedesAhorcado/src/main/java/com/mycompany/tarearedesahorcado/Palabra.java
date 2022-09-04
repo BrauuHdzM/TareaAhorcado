@@ -5,7 +5,9 @@
  */
 package com.mycompany.tarearedesahorcado;
 
-public class Palabra {
+import java.io.Serializable;
+
+public class Palabra implements Serializable {
     private String cadena;
     private int longitud;
     private int mayusculas;

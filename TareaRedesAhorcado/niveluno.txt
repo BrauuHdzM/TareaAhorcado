@@ -1,0 +1,10 @@
+hola
+adios
+redes
+mauricio
+braulio
+computadora
+netbeans
+socket
+llama
+error
